@@ -1,3 +1,29 @@
-[Text descriptiv imagine]https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.libertatea.ro%2Flifestyle%2Fcuriozitati-despre-pisici-3012088&psig=AOvVaw3bgxS8PpB-zJjNi4l0_7xR&ust=1730199387136000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiig5H1sIkDFQAAAAAdAAAAABAE
+**sintaxa:**
+formulele 'mathjax' sunt inserate in aceeasi linie daca sunt plasate intr-o pereche de simboluri '$'
+exemplu: aceasta este o ecuatie: $a=bc$
+
+formulele 'latex' (prin mathjax) se introduc pe rand nou intre doua perechi de simboluri '$$' 
+
+*exemplu:*
+
+$$a=b^c$$
+# ridicarea la putere('subscript)
+
+se foloseste meta-caracterul 'latex':'^'
+# 'subscript'
+
+se foloseste meta-caracterul 'latex': '_'
+
+*exemplu:*
+
+$$a_i = b^c$$
+
+
+
+
+
+
+
+
 
 
