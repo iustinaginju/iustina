@@ -1,6 +1,5 @@
-# Semnele de multiplicare si respectiv diviziunea 
 
-*Exemple:*
+
 
   
     
