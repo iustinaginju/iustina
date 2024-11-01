@@ -24,7 +24,11 @@ $$ 10^10 $$
 
 # Gruparea elementelor din formule
 
-elementele din formule se grupeaza prin meta-caractere : $$10^10$$ 
+elementele din formule se grupeaza prin meta-caractere : 
+
+$$10^10$$ 
+
+
 
 
 
