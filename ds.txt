@@ -9,7 +9,8 @@ formulele 'latex' (prin mathjax) se introduc pe rand nou intre doua perechi de s
 $$a=b^c$$
 # ridicarea la putere('subscript)
 
-se foloseste meta-caracterul 'latex':'^'
+se foloseste meta-caracterul `latex`: `^`
+
 # 'subscript'
 
 se foloseste meta-caracterul 'latex': '_'
@@ -27,6 +28,12 @@ $$ 10^10 $$
 elementele din formule se grupeaza prin meta-caractere : 
 
 $$10^10$$ 
+
+ #Litere grecesti
+
+`\alpha` -alpha litera mica($$\alpha$$)
+
+
 
 
 
