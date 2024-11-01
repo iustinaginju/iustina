@@ -6,6 +6,7 @@ formulele 'latex' (prin mathjax) se introduc pe rand nou intre doua perechi de s
 
 *exemplu:*
 
+
 $$a=b^c$$
 # ridicarea la putere('subscript)
 
