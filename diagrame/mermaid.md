@@ -24,6 +24,31 @@ C--> |Tranzitie medie| D[Master]
     - `<-->` linie continua(sageti stanga si dreapat)
     - `==>` linie ingrosata cu sageata spre stanga
 
+# DIAGRAME FLOWCHART AVANSATE
+flowchart LR
+```
+A & B --> C & D & E --> F & G
+```
+# Diagrame de tip _Timeline_
+
+```mermaid
+
+timeline
+title ''My timeline''
+section ''sectiunea 1''
+2023-2024
+:am luat la facultate
+:am luat contact cu mediul academic
+2024-2025
+:am terminat anul 1
+:am facut practica
+section ''sectiunea 2''
+:am facut practica la Fotogrametrie
+2026-2027
+:am anul terminat 4: am terminat facultatea
+
+
+
     
 
 
