@@ -37,11 +37,11 @@ timeline
 title ''My timeline''
 section ''sectiunea 1''
 2023-2024
-:am luat la facultate
-:am luat contact cu mediul academic
+      :am luat la facultate
+      :am luat contact cu mediul academic
 2024-2025
-:am terminat anul 1
-:am facut practica
+      :am terminat anul 1
+     :am facut practica
 section ''sectiunea 2''
 :am facut practica la Fotogrametrie
 2026-2027
