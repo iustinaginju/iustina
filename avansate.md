@@ -1,3 +1,5 @@
+![image](https://imaginidesktop3d.wordpress.com/wp-content/uploads/2014/06/www-imaginifrumoase-50.jpg?w=584)
+
 # Inserarea ecuatiilor si formulelor mathjax
 
 **Sintaxa** 
