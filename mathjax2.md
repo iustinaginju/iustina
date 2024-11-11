@@ -50,9 +50,11 @@ $$
 
 
 
+[text](http://)
 
+iata un fragment de cod scris pe aceasi linie: `a = b**c` 
 
-
+<code> a=b**c  </code>
 
 
 
