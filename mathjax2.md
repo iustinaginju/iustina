@@ -56,6 +56,45 @@ iata un fragment de cod scris pe aceasi linie: `a = b**c`
 
 <code> a=b**c  </code>
 
+# elemente de markdown 
+
+## inserarea codului de programe in markdown - p2
+
+## inserarea codului 
+### cod `in linie` 
+<code> a=b**c
+
+**Markdown:** 
+
+```python
+ import pandas as pd
+ import numpy as np
+
+ a-2
+ b=3
+ 
+
+ ## inserara elementelor evidentiate (blockquote)
+
+ acesta este un text ne-evidentiat.
+
+ <blockquote>
+acesta este un text evidentiat
+</blockquote>
+
+## avantajele  html fata de markdown
+![Total station](images/myimages.md)
+
+**html:** 
+
+<img src=images/mp.jpg
+width="200px" border=10px>
+
+
+
+
+
+
 
 
 
