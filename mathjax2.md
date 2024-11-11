@@ -67,12 +67,15 @@ iata un fragment de cod scris pe aceasi linie: `a = b**c`
 **Markdown:** 
 
 ```python
+
  import pandas as pd
  import numpy as np
 
+```
+<prep>
  a-2
  b=3
- 
+ </prep>
 
  ## inserara elementelor evidentiate (blockquote)
 
@@ -89,6 +92,19 @@ acesta este un text evidentiat
 
 <img src=images/mp.jpg
 width="200px" border=10px>
+
+<hr size=2em>
+
+## avantajele lui Html
+
+[textul linkului](http://google.com)
+
+<a href="http://google.com
+alt="textul linkului">
+
+
+
+
 
 
 
